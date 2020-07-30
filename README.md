@@ -1,4 +1,4 @@
-# Credit Risk Modelling - Using German Data from 1994
+# [Credit Risk Modelling - Using German Data from 1994](https://www.kaggle.com/shoaibmnagi/credit-risk-modelling-german-data)
 
 Using a dataset of around 1000 observations of loan applications, I try to use a variety of classification algorithms to construct a model that maximizes the recall when it comes to classifying bad loans.  
 
